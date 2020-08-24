@@ -1,0 +1,1 @@
+10.times { | i | puts "count = #{(i++1)*3}" }
